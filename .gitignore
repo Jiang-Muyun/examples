@@ -4,3 +4,5 @@ data
 OpenNMT/data
 cpp/mnist/build
 cpp/dcgan/build
+time_sequence_prediction/traindata.pt
+.vscode/
